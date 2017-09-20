@@ -1,0 +1,5 @@
+for creates a loop, it is often followed by the delcaration a variable, a conition and an iterator, or a new box, an off switch, and a timer for it to shut off.
+&& synonymous with 'and', || synonymous with 'or', ! the following expression now is the opposite.
+Arrays are a list of boxes (variables).
+Git is version control software that allows multiple people to work on the same process.
+GitHub is online storage with verison control.
